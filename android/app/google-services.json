@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956630928593",
+    "project_id": "colab-tar",
+    "storage_bucket": "colab-tar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956630928593:android:d5a67a6cba0591639189f0",
+        "android_client_info": {
+          "package_name": "com.example.colab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuvNbbhF5Rq17eMZZ4ldBnkEueOeQ8BIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
